@@ -46,12 +46,12 @@ Stock Analysis Results - 2018
 
 ### Summary - Advantages & Disadvantages of Refactoring
 
-In general, refactoring code is a key part of the coding process. Its general advantages are more efficient code, using less memory, and improving code logic to make it easier for future users to understand. However, it can often be time consuming and involve multiple developers. In a work environment that is demanding and fast-paced, refactoring complex code often could introduce new bugs and errors and ultimately undermine efficiency.  
+In general, refactoring code is a key part of the coding process. Its' general advantages are more efficient code, using less memory, and improving code logic to make it easier for future users to understand. However, it can often be time consuming and involve multiple developers. In a work environment that is demanding and fast-paced, refactoring complex code could introduce new bugs/errors and ultimately undermine efficiency.  
 
 #### Refactoring the Stock Analysis Code
 
-Refactoring helped me solidify my understanding of important VBA concepts and pushed me to think about solving a problem in a different way. By the end of this project's code was faster and cleaner for any user to understand. In my opinion, the only disadvantage was the speed was incremently increased (approximately .6875 seconds) given this code is only comparing two stock metrics over two years. Overall, the advantages refactoring this project outweighed the disadvantages.
+Refactoring helped me solidify my understanding of important VBA concepts and pushed me to think about solving a problem in a different way. By the end of this project's code was faster and cleaner for any user to understand. In my opinion few disadvantages werediscovered. One arguement could be made in regards to how much time I spent refactoring and the overall improvment in speed of computation. Are a few hours of time worth saving approximately .6875 seconds?
 
-
+Overall, I still believe the advantages of refactoring code outweighed any disadvantage I could devise.
 
 
