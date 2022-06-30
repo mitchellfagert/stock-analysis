@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The purpose of this project was to refactor Excel VBA code that performs a stock analysis specific stocks during the years 2017 & 2018. The goal for this project was to increase efficiency by improving the overall logic of the code and make it easier for future users to read as wells as understand which stocks performed better from 2017 to 2018.
+The purpose of this project was to refactor Excel VBA code that performs a stock analysis for 12 stocks during the years 2017 & 2018. The goal for this project was to increase efficiency by improving the overall logic of the code and make it easier for future users to read as wells as understand overall stocks performance from 2017 to 2018.
 
 ### The Data
 
@@ -14,7 +14,7 @@ The data used to perform the analysis consists of 12 specific stocks during the 
 
 #### Code Improvemnt 
 
-I measured the refactored code performance by adding a script that calculates how long the code takes to identify each stock and calculate the **annual return percentage** & **total daily trading volume**. Once fully executed, the script outputs the elapsed time in a message box. Below are images of the message box displaying the time results.
+I measured the refactored code performance by adding a script that measures how long the code takes to identify each stock based on an inputted year and perform two calculations that provide the **annual return percentage** & **total daily trading volume**. Once fully executed, the script outputs the elapsed time in a message box. Below are images of the message box displaying the time results.
 
 ***Original Code Time Results - 2017***
 
@@ -50,8 +50,8 @@ In general, refactoring code is a key part of the coding process. Its' general a
 
 #### Refactoring the Stock Analysis Code
 
-Refactoring helped me solidify my understanding of important VBA concepts and pushed me to think about solving a problem in a different way. By the end of this project's code was faster and cleaner for any user to understand. In my opinion few disadvantages werediscovered. One arguement could be made in regards to how much time I spent refactoring and the overall improvment in speed of computation. Are a few hours of time worth saving approximately .6875 seconds?
+Refactoring helped me solidify my understanding of important VBA concepts and pushed me to think about solving a problem in a different way. By the end of this project's code was faster and cleaner for any user to understand. In my opinion few disadvantages were discovered. One arguement could be made in regards to how much time I spent refactoring. Are a few hours of time worth saving approximately .6875 seconds? In most scenarios, yes, however for this specific project the original code written would have sufficed.
 
-Overall, I still believe the advantages of refactoring code outweighed any disadvantage I could devise.
+Overall, I still believe the advantages of refactoring code outweighed any disadvantage and creating this project improved my coding mindset and thought process.
 
 
